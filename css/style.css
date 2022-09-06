@@ -11,9 +11,9 @@ body {
 	font-family:'Open Sans', Arial, sans-serif;
 	font-weight:300;
 	line-height:1.6em;
-	color:#ff9818;
+	color:#23a94a;
 	font-size: 1.4em;
-	background: #002701;
+	background: #ff9818;
 
 }
 
@@ -28,19 +28,19 @@ a:active {
 h1,h2{
 	font-weight: 600;
 	line-height:1.1em;
-	color:#ff9818;
+	color:#23a94a;
 	margin-bottom: 20px;
 	text-transform: uppercase;
 }
 h3, h4, h5, h6 { 
 	line-height:1.1em;
-	color:#ff9818;
+	color:#23a94a;
 	margin-bottom: 20px;
 }
 input, button, select, textarea { 
     border-radius: 0px !important;
 }
-.timetable{background: #ff9818;padding: 5px 23px;}
+.timetable{background: #23a94a;padding: 5px 23px;}
 .timetable hr{
 	color:#fff;
 	padding-top: 29px;
@@ -72,7 +72,7 @@ margin-right: 10px;
 	
 font-weight: 700;
 	
-color: #ff9818;
+color: #23a94a;
 	
 border: 1px solid;
 	
@@ -87,7 +87,7 @@ height: 20px;
 width: 20px;
 }
 .widget {
-    color: #858585;
+    color: #fff;
 }
 .row,.row-fluid {
 	margin-bottom:30px;
@@ -117,7 +117,7 @@ img.img-polaroid {
 	
 font-size: 20px;
 	
-color: #ff9818;
+color: #23a94a;
 	
 font-weight: bold;
 }
@@ -142,11 +142,11 @@ font-weight: bold;
 	margin:0;
 	display:inline-block;
 	font-size: 13px;
-	color: #002701;
+	color: #ff9818;
 }
 .topbar p > i{
 	margin-right:5px;
-	color: #ff9818;
+	color: #23a94a;
 }
 .topbar p:last-child{
 	text-align:right;
@@ -179,7 +179,7 @@ header .navbar-collapse  ul.navbar-nav {
 }
 header .navbar {min-height: 70px;padding: 18px 0;background: #fff;}
 .home-page header .navbar-default{
-    background: #002701;
+    background: #ff9818;
     /* position: absolute; */
     width: 100%;
 }
@@ -242,8 +242,8 @@ header  .navbar-nav > li > a {
 }
 
 header .nav .caret {
-    border-bottom-color: #ff9818;
-    border-top-color: #ff9818;
+    border-bottom-color: #23a94a;
+    border-top-color: #23a94a;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
@@ -318,7 +318,7 @@ header ul.nav li ul li a {
 
 .navbar .nav a:hover {
 	background:none;
-	color: #ff9818;
+	color: #23a94a;
 }
 
 .navbar .nav > .active > a,.navbar .nav > .active > a:hover {
@@ -356,9 +356,9 @@ header ul.nav li ul li ul {
   border-bottom-color: none;
   content:none;
 }
-.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {color: #ff9818;border-radius: 0;}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {color: #23a94a;border-radius: 0;}
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
-  color: #ff9818;
+  color: #23a94a;
   background-color: transparent;
 }
 
@@ -551,7 +551,7 @@ section.hero-text h1{
 
 #content {
 	position:relative;
-	background:#002701;
+	background:#ff9818;
 	padding:50px 0 0px 0;
 }
  
@@ -844,9 +844,9 @@ form#commentform textarea {
 	color: #fff;
 }
 section.section-padding.gray-bg {
-    background: #002701;
+    background: #ff9818;
     padding: 60px;
-    color: #ff9818;
+    color: #23a94a;
 }
  
   #accordion-alt3 .panel-heading h4 {
@@ -977,7 +977,7 @@ ul.link-list li{
 }
 footer{background: #1d1d1d;}
 footer ul.link-list li a{
-	color: #8C8C8C;
+	color: #fff;
 }
 footer ul.link-list li a:hover {
 	color: #111523;
@@ -1290,7 +1290,7 @@ footer .widget .flickr_badge img {
 footer{
 	padding:50px 0 0 0;
 	color: #fff;
-	background: #002701;
+	background: #ff9818;
 }
 
 footer a {
@@ -1302,12 +1302,12 @@ footer a:hover {
 }
 
 footer h1, footer h2, footer h3, footer h4, footer h5, footer h6{
-	color: #ff9818;
+	color: #23a94a;
 }
 
 footer address {
 	line-height:1.6em;
-	color: #797979;
+	color: #fff;
 }
 
 footer h5 a:hover, footer a:hover {
@@ -1337,7 +1337,7 @@ ul.social-network li {
 	padding:0;
 	padding-top:30px;
 	margin:20px 0 0 0;
-	background: #002701;
+	background: #ff9818;
 }
 
 #sub-footer p{
